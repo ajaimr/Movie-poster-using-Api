@@ -1,0 +1,15 @@
+.input_div{
+    text-align: center;
+    background-color:#3D4849;
+    height: 150px;
+}
+p{
+    font-size: 30px;
+    margin: 0;
+    padding: 20px;
+}
+input {
+    height: 30px;
+    width:400px;
+    margin: 0;
+}

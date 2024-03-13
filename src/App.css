@@ -1,0 +1,11 @@
+body{
+  margin:0;
+  background-color: #3D4849;
+}
+.heading{
+  background-color: #3D4849;
+  margin-top: 0;
+}
+p,h1{
+  color: beige;
+}
